@@ -41,8 +41,8 @@
       <div class="card round white">
         <div class="container"></div>
       </div>
-    <h2 id="ad:">Büşra:</h2>
-    <p >Kullanıcı Adı:@busracanakcı<br>
+    <h2 id="ad:">Ezgi:</h2>
+    <p >Kullanıcı Adı:@yabanyemisi<br>
     "Eskişehir,TR"<br>
     03.06.1994</p>
   </div>
